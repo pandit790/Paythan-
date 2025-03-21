@@ -1,2 +1,2 @@
-# Paythan-
+# Python
 This is a python 
